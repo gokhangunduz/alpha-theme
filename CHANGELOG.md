@@ -1,9 +1,14 @@
-# Change Log
+# CHANGELOG
 
-## [1.0.2]
+## 0.03 | 2023.07.21
 
-- feat(icon): :tada: add theme icon
+- Update readme.md
+- Update folder structure
 
-## [1.0.1]
+## 0.02 | 2023.07.21
 
-- feat(theme): :boom: create a new theme
+- Add theme icon
+
+## 0.01 | 2023.07.21
+
+- Create a new theme

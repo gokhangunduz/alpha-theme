@@ -2,9 +2,9 @@
   "name": "alpha",
   "displayName": "Alpha",
   "description": "Alpha is a dark theme for Visual Studio Code.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
-  "icon": "resources/alpha.png",
+  "icon": "assets/alpha.png",
   "publisher": "gokhangunduz",
   "author": {
     "name": "Gökhan Gündüz",
