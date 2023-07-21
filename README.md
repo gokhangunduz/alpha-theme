@@ -1,13 +1,19 @@
 # Alpha Theme
 
-![Alpha Theme Banner](./assets/banner.png)
+![Alpha Theme Banner](./assets/screenshot-1.jpeg)
 
 Alpha Theme is a modern and minimalist Visual Studio Code (VSC) theme. It offers a carefully selected color palette and an easy-on-the-eyes design to enhance your coding experience. It provides a perfect look in dark mode.
 
 ## Screenshots
 
-![Alpha Theme](./assets/screenshot.png)
-_Alpha Theme_
+![Alpha Theme](./assets/screenshot-1.jpeg)
+_Alpha Theme Screenshot 1_
+
+![Alpha Theme](./assets/screenshot-2.jpeg)
+_Alpha Theme Screenshot 2_
+
+![Alpha Theme](./assets/screenshot-3.jpeg)
+_Alpha Theme Screenshot 3_
 
 ## Installation
 
@@ -33,7 +39,3 @@ If you wish to contribute to this theme by improving it or fixing any issues, pl
 ## License
 
 This project is licensed under the [MIT License](./LICENSE). For more information, check the license file.
-
----
-
-Original design and coding by [gokhangunduz](https://github.com/gokhangunduz). We welcome any feedback and suggestions. Thank you!
