@@ -1,0 +1,35 @@
+{
+  "name": "alpha",
+  "displayName": "Alpha",
+  "description": "Alpha is a dark theme for Visual Studio Code.",
+  "version": "0.0.2",
+  "license": "MIT",
+  "icon": "resources/alpha.png",
+  "publisher": "gokhangunduz",
+  "author": {
+    "name": "Gökhan Gündüz",
+    "email": "mail@gokhangunduz.com.tr"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokhangunduz/alpha-theme"
+  },
+  "keywords": [
+    "gokhangunduz"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "alpha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alpha-color-theme.json"
+      }
+    ]
+  }
+}
